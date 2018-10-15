@@ -1,2 +1,2 @@
-# NLP_by_Example
-Code for "NLP by Example" book
+# NLP: A Pragmatic Approach
+Code for "NLP: A Pragmatic Approach" book
